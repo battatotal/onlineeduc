@@ -1,0 +1,34 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Mate",
+    "slug": "matematika"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Music",
+    "slug": "muzyka"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "History",
+    "slug": "istoriya"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Informatics",
+    "slug": "informatika"
+  }
+}
+]
